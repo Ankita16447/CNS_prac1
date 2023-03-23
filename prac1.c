@@ -1,3 +1,5 @@
+// write a c program to communicate two machines using RS232C protocol
+
 #include<stdio.h>
 #include<conio.h>
 #include<dos.h>
